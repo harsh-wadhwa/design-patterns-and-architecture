@@ -1,0 +1,12 @@
+QUESTION:
+
+-  there i was given this problem about making endpoints for calculating volume of shapes like cube, cuboid, pyramid and not just the endpoints, the whole code, classes etc. i had made a shape base class which was abstract and had an abstract method to calculateVolume and these cube, cuboid etc classes were extending the base class and had @override method for calculating volume. was i even on the right track
+
+ - let us say shapes extend to 100. we will have to make 100 subclasses and 100 endpoints which does not sound right
+
+ SOLN:
+
+ - first we did not need to make shape classes or shape base class, all we needed was a calculator to calculate volume. An interface VolumeCalculator that is implemented by other calculators. Interface has one method, that takes the dimensions array
+ - we can have a factory
+
+

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract_factory/abstract_factory.iml" filepath="$PROJECT_DIR$/abstract_factory/abstract_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns-and-architecture.iml" filepath="$PROJECT_DIR$/design-patterns-and-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interviews/interviews.iml" filepath="$PROJECT_DIR$/interviews/interviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
