@@ -1,4 +1,4 @@
-package house_and_builder;
+package house_and_builder_with_director.house_and_builder;
 
 public class House {
 
@@ -10,7 +10,7 @@ public class House {
     private boolean swimmingPool;
 
     // package-private (default) constructor
-    House(HouseBuilder builder) {
+    House(Builder builder) {
         this.foundation = builder.getFoundation();
         this.walls = builder.getWalls();
         this.roof = builder.getRoof();
