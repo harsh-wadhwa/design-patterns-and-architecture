@@ -8,9 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/builder_pattern/builder_pattern.iml" filepath="$PROJECT_DIR$/builder_pattern/builder_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_design_pattern/decorator_design_pattern.iml" filepath="$PROJECT_DIR$/decorator_design_pattern/decorator_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns-and-architecture.iml" filepath="$PROJECT_DIR$/design-patterns-and-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade_design_pattern/facade_design_pattern.iml" filepath="$PROJECT_DIR$/facade_design_pattern/facade_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/interviews/interviews.iml" filepath="$PROJECT_DIR$/interviews/interviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype_design_pattern/prototype_design_pattern.iml" filepath="$PROJECT_DIR$/prototype_design_pattern/prototype_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" filepath="$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
