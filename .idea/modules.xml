@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/interviews/interviews.iml" filepath="$PROJECT_DIR$/interviews/interviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator_design_pattern/iterator_design_pattern.iml" filepath="$PROJECT_DIR$/iterator_design_pattern/iterator_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediator_design_pattern/mediator_design_pattern.iml" filepath="$PROJECT_DIR$/mediator_design_pattern/mediator_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer_design_pattern/observer_design_pattern.iml" filepath="$PROJECT_DIR$/observer_design_pattern/observer_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype_design_pattern/prototype_design_pattern.iml" filepath="$PROJECT_DIR$/prototype_design_pattern/prototype_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" filepath="$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
