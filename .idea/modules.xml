@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" filepath="$PROJECT_DIR$/proxy_design_pattern/proxy_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/state_design_pattern/state_design_pattern.iml" filepath="$PROJECT_DIR$/state_design_pattern/state_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template_design_pattern/template_design_pattern.iml" filepath="$PROJECT_DIR$/template_design_pattern/template_design_pattern.iml" />
     </modules>
   </component>
 </project>
