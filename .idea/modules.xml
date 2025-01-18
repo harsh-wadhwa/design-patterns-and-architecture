@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/design-patterns-and-architecture.iml" filepath="$PROJECT_DIR$/design-patterns-and-architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade_design_pattern/facade_design_pattern.iml" filepath="$PROJECT_DIR$/facade_design_pattern/facade_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight_design_pattern/flyweight_design_pattern.iml" filepath="$PROJECT_DIR$/flyweight_design_pattern/flyweight_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/interviews/interviews.iml" filepath="$PROJECT_DIR$/interviews/interviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator_design_pattern/iterator_design_pattern.iml" filepath="$PROJECT_DIR$/iterator_design_pattern/iterator_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediator_design_pattern/mediator_design_pattern.iml" filepath="$PROJECT_DIR$/mediator_design_pattern/mediator_design_pattern.iml" />
